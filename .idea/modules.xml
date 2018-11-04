@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cryptoService/cryptoService.iml" filepath="$PROJECT_DIR$/cryptoService/cryptoService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventsWebServices/eventsWebServices.iml" filepath="$PROJECT_DIR$/eventsWebServices/eventsWebServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobileAppWebServices.iml" filepath="$PROJECT_DIR$/mobileAppWebServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userWebServices/userWebServices.iml" filepath="$PROJECT_DIR$/userWebServices/userWebServices.iml" />
+    </modules>
+  </component>
+</project>

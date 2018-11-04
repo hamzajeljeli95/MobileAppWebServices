@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cryptoService:war">
+    <output-path>$PROJECT_DIR$/cryptoService/target</output-path>
+    <root id="archive" name="cryptoService-1.0.0.war">
+      <element id="artifact" artifact-name="cryptoService:war exploded" />
+    </root>
+  </artifact>
+</component>
